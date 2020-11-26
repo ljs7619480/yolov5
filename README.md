@@ -46,7 +46,7 @@ python3 train.py --img 480 --batch 50 --epochs 50 --data SVHN.yaml --weights yol
 
 - To visualize the train process
     `tensorboard --logdir <path_to_project_name># default project name is runs/train/exp`
-    ![](http://)
+    ![](https://raw.githubusercontent.com/ljs7619480/yolov5/SVHN/banner/tensorboard.png)
     
 ## Testing
 - Using the following script to get more information
