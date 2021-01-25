@@ -55,7 +55,7 @@ $ python detect.py --help
 ```
 - example
 ```bash
-python3 detect.py --weight "<path_to_model_weight.pt>" --source "<path_to_img or path_to_img_dir>" --device 0 --save-txt --save-conf
+python3 detect.py --weights "<path_to_model_weight.pt>" --source "<path_to_img or path_to_img_dir>" --device 0 --save-txt --save-conf
 ```
 - The result would save under `runs/detect/exp`
 
