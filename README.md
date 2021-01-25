@@ -1,6 +1,6 @@
 ## Overview
 This project is fork from [ultralytics/yolov5](https://github.com/ultralytics/yolov5) and training on the [**Street View House Numbers (SVHN)**](http://ufldl.stanford.edu/housenumbers/) Dataset. I only use the Original images with character level bounding boxes.
-![](https://raw.githubusercontent.com/ljs7619480/yolov5/SVHN/banner/SVHN.png).
+![](https://raw.githubusercontent.com/ljs7619480/yolov5/SVHN/banner/SVHN.jpg).
 
 ## Hardware
 The following specs were used to create the original solution.
